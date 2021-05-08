@@ -7,6 +7,10 @@ Dinero is a web application designed and implemented to enable the simulated inv
 
 [Register](http://investwithdinero.herokuapp.com/register)
 
+## Note
+
+Source code cannot be made public as it contains API key and database credentials.
+
 ## Author
 
 Tanaka Chitete
